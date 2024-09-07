@@ -1,4 +1,4 @@
-## **Busca Rápida por Devs Brasileiros**
+## Busca Rápida por Devs Brasileiros - Imersão Dev com Google Gemini
 
 **O que faz essa bagaça?**
 
