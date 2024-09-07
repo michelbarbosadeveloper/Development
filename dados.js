@@ -15,6 +15,13 @@ let dados = [
     tags: "alura imersao projeto"
 },
 
+{
+    titulo: "Fernando Filho",
+    Descrição: "Developer with 2 formacion and especiali in PHP/WordPress",
+    link: "https://github.com/rafaballerini",
+    tags: "alura imersao projeto"
+},
+
 // Objeto para Pedro Henrique (FullStack)
 {
     titulo: "Pedro Henrique",
